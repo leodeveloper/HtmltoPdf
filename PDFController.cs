@@ -99,7 +99,7 @@ namespace PDF.API.Controllers
     }
 
     // XSettings.Register();
-    // XSettings.InstallTrialLicense("XeJREBodo/8EtnRZa/mGbYmgfb4dPdtyprLOzda0HlwDyUyhIkDeRewfCE5t2UIFBw==");
+    // XSettings.InstallTrialLicense("");
     // Doc d = new Doc();
     //d.HtmlOptions.Media = MediaType.Print;
     //d.AddImageHtml(str);
